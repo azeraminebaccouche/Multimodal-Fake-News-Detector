@@ -10,3 +10,4 @@ license: openrail
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+To Test the app https://huggingface.co/spaces/azerrr1030/FakeNewsDetector
