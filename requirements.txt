@@ -1,0 +1,12 @@
+transformers
+torch
+opencv-python
+pillow
+openai-whisper
+pandas
+numpy
+scikit-learn
+accelerate
+gradio
+easyocr
+matplotlib
